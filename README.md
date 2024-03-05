@@ -1,6 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>NAME : Kaushika A</h3>
-<h3>REGISTER NO: 212221230048</h3>
+<h3>NAME : KAVYA K</h3>
+<h3>REGISTER NO: 212222230065</h3>
 <h3>EX. NO : 1</h3>
 <h3>DATE : 27.02.24</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
